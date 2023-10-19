@@ -8,6 +8,8 @@ useHead({
 
 <template>
   <VitePwaManifest />
+  <WelcomePage />
+  <CategoryNav />
   <NuxtLayout>
     <NuxtPage />
   </NuxtLayout>
